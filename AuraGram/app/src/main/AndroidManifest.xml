@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.aura.auragram">
+    <application android:label="AuraGram" />
+</manifest>
