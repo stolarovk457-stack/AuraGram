@@ -1,0 +1,5 @@
+{
+  "name": "AuraGram Dev Container",
+  "image": "mcr.microsoft.com/vscode/devcontainers/universal:2-linux",
+  "remoteUser": "vscode"
+}

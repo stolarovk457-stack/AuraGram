@@ -1,0 +1,1 @@
+Starter stickers placeholder directory.
